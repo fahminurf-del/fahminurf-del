@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working as  freelancer programmer and field surveyor in Lamongan, East Java, Indonesia
+- 🌱 I’m currently learning Laravel 12 and CodeIgniter 4
+- 📫 How to reach me: instagram : @fahminurfachrurozi | gmail : fahminurf@gmail.com
