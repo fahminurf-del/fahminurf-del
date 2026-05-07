@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 ![Fahmi Nur F](img/github-header-banner.png)
 
-- 🔭 I’m currently working as  freelancer programmer and as a field surveyor in Lamongan, East Java. Indonesia
-- 🌱 I’m currently learning and developing some apps using Laravel 12 and CodeIgniter 4
+- 🔭 Currently working as freelancer programmer and as a field surveyor in Lamongan, East Java. Indonesia
+- 🌱 Currently learning and developing some apps using Laravel 12 and CodeIgniter 4
 
-
+##### SKILLS
 <img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
