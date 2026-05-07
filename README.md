@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Fahmi Nur F](img/github-header-banner.png)
 
-######Skills
+#####Skills
 
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
