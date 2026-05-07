@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Fahmi Nur F](img/github-header-banner.png)
-- 🔭 I’m currently working as  freelancer programmer and field surveyor in Lamongan, East Java, Indonesia
-- 🌱 I’m currently learning Laravel 12 and CodeIgniter 4
+- 🔭 I’m currently working as  freelancer programmer and as a field surveyor in Lamongan, East Java. Indonesia
+- 🌱 I’m currently learning and developing some apps using Laravel 12 and CodeIgniter 4
