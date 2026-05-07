@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as  freelancer programmer and field surveyor in Lamongan, East Java, Indonesia
 - 🌱 I’m currently learning Laravel 12 and CodeIgniter 4
 
+[welcome]!(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2NnanMxeWQzMjU1YXp0eWpjd2xzMjh2aTNhaHozbW44bng0andmNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g88xUM1rTwjfLhoRYP/giphy.gif
