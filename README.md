@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as  freelancer programmer and as a field surveyor in Lamongan, East Java. Indonesia
 - 🌱 I’m currently learning and developing some apps using Laravel 12 and CodeIgniter 4
 
+##### Skills
 
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
